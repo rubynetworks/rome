@@ -83,7 +83,10 @@ div#c-grid-elem:hover #tooltip {
   width: max-content;
   text-decoration: none;
   color: white;
-  position: relative;
+  position: absolute;
+  bottom: 5%;
+  left: 0;
+  right: 0;
 }
 
 #tooltip a#tooltip-link::before {

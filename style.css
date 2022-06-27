@@ -63,7 +63,7 @@ div#c-grid-elem > img {
   height: 100%;
   transform: scaleY(0);
   transform-origin: bottom center;
-  transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in;
 }
 
 div#c-grid-elem:hover #tooltip {
